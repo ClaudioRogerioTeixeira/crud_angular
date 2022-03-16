@@ -1,2 +1,2 @@
-# crud_angular
+# Crud Angular
 CRUD desenvolvido em Angular
