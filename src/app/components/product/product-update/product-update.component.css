@@ -1,0 +1,13 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  display: flex;
+  justify-content: end;
+}
+
+.btnSalvar {
+  margin-right: 10px;
+}

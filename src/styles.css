@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.red {
+  color: rgb(227, 94, 107);
+}
+
+.v-middle {
+  vertical-align: middle;
+}
+
+.titleLogo {
+  margin-left: 10px;
+  font-family:cursive;
+}
+
+
+/* snackbar color */
+.success-snackbar {
+  background-color: green;
+}
+
+.error-snackbar {
+  background-color: red;
+}
+
+.warning-snackbar {
+  background-color: yellow;
+}
